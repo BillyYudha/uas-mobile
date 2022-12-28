@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.billy.billyrestaurant;
 
 import android.content.Context;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.billy.billyrestaurant;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.billy.billyrestaurant;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;

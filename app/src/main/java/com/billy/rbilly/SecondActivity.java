@@ -1,6 +1,6 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.billy.billyrestaurant;
 
-import static com.azmialdisr.azmialdisrrestaurant.R.drawable.*;
+import static com.billy.billyrestaurant.R.drawable.*;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.Group;
