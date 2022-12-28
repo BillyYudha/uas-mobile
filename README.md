@@ -6,15 +6,14 @@
 | ---------- | ---------- | ---------- |
 
 |
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanAwal1.jpeg" width="250">|
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanAwal2.jpeg" width="250"> |
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanStore1.jpeg" width="250"> |
-| <img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanStore2.jpeg" width="250"> |
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanStore3.jpeg" width="250"> | 
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanAwalMenu.jpeg" width="250"> |
-| <img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanMenu1.jpeg" width="250"> | 
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanMenu2.jpeg" width="250"> | 
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanMenu3.jpeg" width="250"> |
-| <img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanOrder1.jpeg" width="250"> | 
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanOrder2.jpeg" width="250"> | 
-<img src="https://github.com/azmialdi67/billyRestaurant/blob/master/Screenshot/TampilanOrder3.jpeg" width="250"> |
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/10.jpeg" width="250">|
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/9.jpeg" width="250"> |
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/8.jpeg" width="250"> |
+| <img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/7.jpeg" width="250"> |
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/6.jpeg" width="250"> | 
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/5.jpeg" width="250"> |
+| <img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/4.jpeg" width="250"> | 
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/3.jpeg" width="250"> | 
+<img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/2.jpeg" width="250"> |
+| <img src="https://github.com/Wellbrill/billyRestaurant/blob/master/Screenshot/1.jpeg" width="250"> | 
+
